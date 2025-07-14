@@ -2,6 +2,7 @@
 
 An **end-to-end fraud analysis project** using **SQL and Tableau** to identify, monitor, and visualize fraudulent transaction patterns across customers, merchants, regions, and transaction types for effective banking fraud mitigation.
 
+![ERD](https://github.com/Jay18034/banking-fraud-detection-sql-tableau/blob/main/Dashboard)
 
 ---
 
