@@ -80,4 +80,5 @@ Visual summary of **fraud detection insights** built in Tableau for this project
 - ✅ Fraud breakdown by region, merchant, hour, type, and amount
 - ✅ Interactive filters for region, merchant, transaction type, and date range
 
-![ERD](https://github.com/Jay18034/banking-fraud-detection-sql-tableau/blob/main/Dashboard)
+
+
