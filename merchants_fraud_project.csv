@@ -1,0 +1,31 @@
+merchant_id,merchant_name,category,region
+1,Flipkart,Pharmacy,Pune
+2,Amazon,Transport,Bangalore
+3,Swiggy,Entertainment,Mumbai
+4,Zomato,Electronics,Mumbai
+5,Reliance Fresh,E-commerce,Kolkata
+6,Big Bazaar,Entertainment,Kolkata
+7,DMart,Entertainment,Delhi
+8,Ola,Entertainment,Pune
+9,Uber,Food Delivery,Chennai
+10,Paytm Mall,Electronics,Delhi
+11,Myntra,Pharmacy,Bangalore
+12,Snapdeal,Pharmacy,Mumbai
+13,Tata Cliq,Entertainment,Lucknow
+14,Spencer's,Travel,Mumbai
+15,Jio Mart,Entertainment,Chennai
+16,Croma,Pharmacy,Bangalore
+17,BookMyShow,Travel,Bangalore
+18,IRCTC,Food Delivery,Bangalore
+19,UrbanClap,Electronics,Jaipur
+20,Nykaa,Pharmacy,Jaipur
+21,MedPlus,Electronics,Kolkata
+22,Apollo Pharmacy,E-commerce,Kolkata
+23,Foodpanda,Pharmacy,Delhi
+24,Inox,Food Delivery,Bangalore
+25,PVR,Pharmacy,Mumbai
+26,Makemytrip,Travel,Hyderabad
+27,Cleartrip,Food Delivery,Ahmedabad
+28,Justdial,Transport,Kolkata
+29,Redbus,Grocery,Delhi
+30,Ajio,Travel,Pune
