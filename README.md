@@ -72,13 +72,6 @@ SELECT
     ROUND(SUM(is_fraud) / COUNT(*) * 100, 2) AS fraud_percentage
 FROM transactions;
 
-## 📊 Dashboard Preview
-
-Visual summary of **fraud detection insights** built in Tableau for this project:
-
-- ✅ KPI cards for transactions, fraud rate, and total frauds
-- ✅ Fraud breakdown by region, merchant, hour, type, and amount
-- ✅ Interactive filters for region, merchant, transaction type, and date range
 
 
 
